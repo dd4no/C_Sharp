@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DailyReport
 {
@@ -29,14 +25,10 @@ namespace DailyReport
             string studyHours = Console.ReadLine();
             int hrsStudied = Convert.ToInt32(studyHours);
 
-            Console.WriteLine("Your answers: \n" + studentName + "\n" + courseName + "\n" + pgNum + "\n" + needHelp + "\n" + positiveExperiences + "\n" + feedback + "\n" + hrsStudied);
+            // Console.WriteLine("Your answers: \n" + studentName + "\n" + courseName + "\n" + pgNum + "\n" + needHelp + "\n" + positiveExperiences + "\n" + feedback + "\n" + hrsStudied);
 
             Console.WriteLine("Thank you for your answers.  An Instructor will respond to this shortly.  Have a great day!");
             Console.Read();
-
-
-
-
         }
     }
 }
