@@ -38,8 +38,8 @@ namespace ShippingQuote
                 }
                 else
                 {
-                    decimal quote = (width * height * length) / 100;
-                    //decimal quote = Convert.ToDecimal(costBase);
+                    decimal quote = ((width * height * length) * weight) / 100;
+                    
                     Console.WriteLine("===============================");
                     Console.WriteLine("Your estimated total shipping cost:");
                     Console.WriteLine("$" + quote.ToString());
