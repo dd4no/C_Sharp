@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Math\Math\obj\Debug\Math.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Math\Math\bin\Debug\Math.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Math\Math\bin\Debug\Math.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Math\Math\bin\Debug\Math.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Math\Math\obj\Debug\Math.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Math\Math\obj\Debug\Math.pdb
