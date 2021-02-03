@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Strings\Strings\obj\Debug\Strings.pdb
