@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IncomeCompare\IncomeCompare\bin\Debug\IncomeCompare.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IncomeCompare\IncomeCompare\bin\Debug\IncomeCompare.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IncomeCompare\IncomeCompare\bin\Debug\IncomeCompare.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IncomeCompare\IncomeCompare\obj\Debug\IncomeCompare.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IncomeCompare\IncomeCompare\obj\Debug\IncomeCompare.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IncomeCompare\IncomeCompare\obj\Debug\IncomeCompare.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IncomeCompare\IncomeCompare\obj\Debug\IncomeCompare.pdb
