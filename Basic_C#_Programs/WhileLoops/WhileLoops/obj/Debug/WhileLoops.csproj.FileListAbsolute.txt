@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb
