@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\ListsAndArrays\ListsAndArrays\bin\Debug\ListsAndArrays.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\ListsAndArrays\ListsAndArrays\bin\Debug\ListsAndArrays.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\ListsAndArrays\ListsAndArrays\bin\Debug\ListsAndArrays.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\ListsAndArrays\ListsAndArrays\obj\Debug\ListsAndArrays.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\ListsAndArrays\ListsAndArrays\obj\Debug\ListsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\ListsAndArrays\ListsAndArrays\obj\Debug\ListsAndArrays.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\ListsAndArrays\ListsAndArrays\obj\Debug\ListsAndArrays.pdb
