@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\sixParter\sixParter\bin\Debug\sixParter.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\sixParter\sixParter\bin\Debug\sixParter.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\sixParter\sixParter\bin\Debug\sixParter.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\sixParter\sixParter\obj\Debug\sixParter.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\sixParter\sixParter\obj\Debug\sixParter.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\sixParter\sixParter\obj\Debug\sixParter.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\sixParter\sixParter\obj\Debug\sixParter.pdb
