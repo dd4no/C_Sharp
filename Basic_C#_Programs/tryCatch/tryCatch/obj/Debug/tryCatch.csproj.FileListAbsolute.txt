@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\tryCatch\tryCatch\bin\Debug\tryCatch.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\tryCatch\tryCatch\bin\Debug\tryCatch.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\tryCatch\tryCatch\bin\Debug\tryCatch.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\tryCatch\tryCatch\obj\Debug\tryCatch.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\tryCatch\tryCatch\obj\Debug\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\tryCatch\tryCatch\obj\Debug\tryCatch.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\tryCatch\tryCatch\obj\Debug\tryCatch.pdb
