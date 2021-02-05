@@ -8,21 +8,21 @@ namespace MethodOverload
 {
     class Overload
     {
-        public static int DoubleIt(int x)
+        public static int MathOp(int x)
         {
             return x * 2;
         }
 
-        public static decimal DoubleIt(decimal x)
-        {
-            return x * 2;
-        }
-
-        public static string DoubleIt(string x)
+        public static int MathOp(decimal x)
         {
             int y = Convert.ToInt32(x);
-            y = y + y;
-            return y.ToString();
+            return y * 3;
+        }
+
+        public static int MathOp(string x)
+        {
+            int y = Convert.ToInt32(x);
+            return y / 2;
         }
     }
 }

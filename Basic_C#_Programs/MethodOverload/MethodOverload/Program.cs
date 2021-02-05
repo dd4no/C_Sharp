@@ -8,14 +8,14 @@ namespace MethodOverload
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int a = Overload.DoubleIt(5);
+            int a = Overload.MathOp(5);
             Console.WriteLine("Doubling 5 gives a value of " + a);
-            decimal b = Overload.DoubleIt(5.25m);
-            Console.WriteLine("Doubling 5.25 gives a value of " + b);
-            string c = Overload.DoubleIt("10");
-            Console.WriteLine("Doubling \"10\" gives a value of " + c);
+            int b = Overload.MathOp(5.25m);
+            Console.WriteLine("Trippling 5.25 gives a value of " + b);
+            int c = Overload.MathOp("40");
+            Console.WriteLine("Halving \"40\" gives a value of " + c);
 
             Console.ReadLine();
         }
