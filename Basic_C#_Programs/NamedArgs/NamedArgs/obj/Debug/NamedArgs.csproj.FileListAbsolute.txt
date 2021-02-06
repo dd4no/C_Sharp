@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\NamedArgs\NamedArgs\bin\Debug\NamedArgs.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\NamedArgs\NamedArgs\bin\Debug\NamedArgs.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\NamedArgs\NamedArgs\bin\Debug\NamedArgs.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\NamedArgs\NamedArgs\obj\Debug\NamedArgs.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\NamedArgs\NamedArgs\obj\Debug\NamedArgs.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\NamedArgs\NamedArgs\obj\Debug\NamedArgs.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\NamedArgs\NamedArgs\obj\Debug\NamedArgs.pdb
