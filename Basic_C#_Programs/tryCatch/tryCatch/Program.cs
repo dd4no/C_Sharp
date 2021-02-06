@@ -8,7 +8,6 @@ namespace tryCatch
     {
         static void Main()
         {
-
             List<int> dividends = new List<int> { 2, 4, 8, 16, 32, 64, 128, 256 };
 
             try
