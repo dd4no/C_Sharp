@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Interface\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Interface\Interface\obj\Debug\Interface.pdb
