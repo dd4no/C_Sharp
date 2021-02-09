@@ -12,5 +12,6 @@ namespace AbstractClass
         public string lastName { get; set; }
 
         public abstract void SayName();
-    }
+       
+}
 }
