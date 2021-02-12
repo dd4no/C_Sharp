@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Extras\Extras\bin\Debug\Extras.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Extras\Extras\bin\Debug\Extras.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Extras\Extras\bin\Debug\Extras.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Extras\Extras\obj\Debug\Extras.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Extras\Extras\obj\Debug\Extras.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Extras\Extras\obj\Debug\Extras.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Extras\Extras\obj\Debug\Extras.pdb
