@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\DateAndTime\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csprojAssemblyReference.cache
