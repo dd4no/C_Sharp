@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Exceptions\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
