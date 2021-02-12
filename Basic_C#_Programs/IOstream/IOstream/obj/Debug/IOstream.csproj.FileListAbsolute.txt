@@ -1,0 +1,7 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IOstream\IOstream\bin\Debug\IOstream.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IOstream\IOstream\bin\Debug\IOstream.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IOstream\IOstream\bin\Debug\IOstream.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IOstream\IOstream\obj\Debug\IOstream.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IOstream\IOstream\obj\Debug\IOstream.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IOstream\IOstream\obj\Debug\IOstream.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\IOstream\IOstream\obj\Debug\IOstream.pdb
