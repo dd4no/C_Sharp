@@ -19,7 +19,6 @@ namespace DateAndTime
             Console.WriteLine("Please enter hours into the future:");
             double hours = Convert.ToDouble(Console.ReadLine());
 
-            //DateTime futureTime = new DateTime();
             DateTime futureTime = time.AddHours(hours);
             Console.WriteLine("\nIn {0} hours it will be:", hours);
             Console.WriteLine(futureTime);
