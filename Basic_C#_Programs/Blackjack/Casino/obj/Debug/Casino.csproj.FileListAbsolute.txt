@@ -1,0 +1,6 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Casino\bin\Debug\Casino.dll
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Casino\bin\Debug\Casino.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Casino\obj\Debug\Casino.dll
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Casino\obj\Debug\Casino.pdb

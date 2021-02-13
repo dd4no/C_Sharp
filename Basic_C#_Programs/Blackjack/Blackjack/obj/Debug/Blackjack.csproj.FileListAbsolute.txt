@@ -5,3 +5,6 @@ C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Blackjack\ob
 C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
 C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Blackjack\obj\Debug\Blackjack.exe
 C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Blackjack\bin\Debug\Casino.dll
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Blackjack\bin\Debug\Casino.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\Basic_C#_Programs\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete
