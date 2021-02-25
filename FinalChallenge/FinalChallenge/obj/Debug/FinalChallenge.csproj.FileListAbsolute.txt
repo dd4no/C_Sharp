@@ -1,0 +1,12 @@
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe.config
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.pdb
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.dll
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.xml
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csprojAssemblyReference.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CopyComplete
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.exe
+C:\Users\daved\Documents\GitHub\C_Sharp\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.pdb
